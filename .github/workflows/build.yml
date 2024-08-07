@@ -1,4 +1,4 @@
-name: Build
+name: Silk Touched
 
 on: [push, pull_request]
 
